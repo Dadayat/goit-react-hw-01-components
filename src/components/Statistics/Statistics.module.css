@@ -1,0 +1,18 @@
+.statistics {
+  text-align: center;
+  padding: 20px;
+  background-color: #fcfcfcb0;
+}
+
+.title {
+  font-size: large;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.stat_list {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 450px;
+}
