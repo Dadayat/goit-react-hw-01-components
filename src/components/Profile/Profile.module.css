@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   text-align: center;
-  padding: 20px;
+  padding: 35px;
   background-color: #999797b0;
 }
 
@@ -13,7 +13,6 @@
   height: auto;
   padding: 20px;
   border-radius: 10px;
-  margin-bottom: 25px;
   background-color: #fffcfc;
   box-shadow: 0px 4px 10px 4px #575757;
 }
@@ -23,7 +22,7 @@
   height: 100px;
   border: 2px solid black;
   border-radius: 50%;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
   background-color: #999797b0;
 }
 
